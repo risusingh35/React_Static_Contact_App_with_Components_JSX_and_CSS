@@ -1,0 +1,25 @@
+body {
+  background-color: rgb(223, 53, 53);
+  text-align: center;
+}
+.Card {
+  margin: 1% auto 1%;
+
+  padding: 1%;
+  width: 32%;
+  height: 33%;
+  box-shadow: 2px 3px 5px 5px pink;
+  font-family: sans-serif;
+  text-align: center;
+}
+.Card img {
+  width: 50%;
+  border-radius: 5%;
+  box-shadow: 2px 3px 5px 1px orchid;
+}
+.Card h2 {
+  color: plum;
+}
+.Card p {
+  color: aliceblue;
+}
